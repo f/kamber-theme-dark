@@ -1,6 +1,6 @@
-# Kamber Default Theme
+# Kamber Dark Theme
 
-It's the default theme of **Kamber**
+It's a theme of **Kamber**, it's dark.
 
 ## Install
 
